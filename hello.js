@@ -1,4 +1,4 @@
 function hello() {
-    console.log("welcome node");
+    console.log("node");
 }
 hello();
